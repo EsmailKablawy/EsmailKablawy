@@ -17,5 +17,5 @@ My pronouns are he/him.
 
 ## ⚡ Fun Fact
 A fun fact about me is that I love [share something interesting about yourself, e.g., hiking, cooking, or a hobby you enjoy].
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EsmailKablawy" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EsmailKablawy&theme=dark" alt="GitHub Streak" /></a>
 
