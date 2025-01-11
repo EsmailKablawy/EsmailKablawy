@@ -10,7 +10,7 @@ I’m currently learning advanced Flutter techniques and exploring backend techn
 I’m looking to collaborate on open-source Flutter projects and any innovative app ideas that can solve real-world problems.
 
 ## 📫 How to Reach Me
-You can reach me at [your email or social media links, e.g., Twitter, LinkedIn].
+You can reach me at [LinkedIn: https://www.linkedin.com/in/esmail-elkablawy-a75048265/ ].
 
 ## 😄 Pronouns
 My pronouns are he/him.
