@@ -11,6 +11,7 @@ I’m looking to collaborate on open-source Flutter projects and any innovative 
 
 ## 📫 How to Reach Me
 📧 [Email](esmail.o.kablawy@gmail.com)
+
 💼 [LinkedIn](https://www.linkedin.com/in/esmail-elkablawy-a75048265/)
 
 ## 😄 Pronouns
