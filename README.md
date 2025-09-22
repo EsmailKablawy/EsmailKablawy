@@ -18,5 +18,5 @@ I’m looking to collaborate on open-source Flutter projects and any innovative 
 My pronouns are he/him.
 
 ## ⚡ Fun Fact
-A fun fact about me is that I love [share something interesting about yourself, e.g., hiking, cooking, or a hobby you enjoy].
+A fun fact about me is that I love coding.
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EsmailKablawy&theme=dark" alt="GitHub Streak" /></a>
